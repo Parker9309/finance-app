@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "finance-app",
+    "owner": "tention9",
     "slug": "finance-app",
     "version": "1.0.0",
     "orientation": "portrait",
