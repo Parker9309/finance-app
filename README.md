@@ -1,7 +1,7 @@
 # Finance App
 
 ### How to install
-```JSON
+```console
 npm install -g expo-cli
 
 git clone git@github.com:Parker9309/finance-app.git
@@ -12,6 +12,6 @@ npm install
 ```
 
 ### Run project
-```JSON
+```console
 npm run start
 ```
